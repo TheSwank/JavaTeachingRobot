@@ -11,6 +11,7 @@ public class Robot extends IterativeRobot {
     }
     
     public void autonomousInit() {
+    	System.out.println("hello");
     	
     }
 
