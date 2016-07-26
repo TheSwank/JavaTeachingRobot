@@ -19,7 +19,8 @@ public class Robot extends IterativeRobot {
     }
     
     public void teleopPeriodic() {
-        
+        int a = 2;
+        System.out.println(a);
     }
     
     public void testPeriodic() {
